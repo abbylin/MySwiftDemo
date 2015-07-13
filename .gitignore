@@ -1,8 +1,0 @@
-
-# Xcode user files
-xcuserdata
-*.xccheckout
-ROBOTS.jar
-.idea
-build.pyc
-recipe.pyc
